@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+  }
+
+  ul {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color:lightgray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  /* body {
+    padding-top: 70px;
+  }
+  .navbar.navbar-inverse {
+    border: none;
+  }
+  .navbar .navbar-brand {
+    padding-top: 0px;
+  }
+  .navbar .navbar-brand img {
+    height: 50px;
+  } */
+
+
+  .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+/* .navbar-header {
+  float: right;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+} */
+.navbar-brand {float: right}
