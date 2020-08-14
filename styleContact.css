@@ -61,14 +61,6 @@ ul {
 .navbar-brand{
   text-align: justify;
 }
-body{
-  background-color: black;
-}
-/* .carousel .item {
-  height: 30%;
-  width: 30%;
-} */
-
 .carousel-item img {
  height: 590px;
  margin: auto;
